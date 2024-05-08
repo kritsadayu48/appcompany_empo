@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1010195624522",
+    "project_id": "test-p5hmgg",
+    "storage_bucket": "test-p5hmgg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010195624522:android:bf4f8774bc020c6fc62cb3",
+        "android_client_info": {
+          "package_name": "com.example.company_empo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010195624522-59djf7rnbto794d5ct5vg71copi4vrko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoIoURUpxR_03DPLm541s9no0bctsU61k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010195624522-59djf7rnbto794d5ct5vg71copi4vrko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010195624522-b4eb1to2qlc37qnjeur16s8urbq38aa8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.companyEmpo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010195624522:android:5c609a923ce93a96c62cb3",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010195624522-10ovmojrkmknovvou8vnlk4mid71r8ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testfirebase",
+            "certificate_hash": "b0fbb09598585f4cce3e7b7628b2fa7a00045d75"
+          }
+        },
+        {
+          "client_id": "1010195624522-59djf7rnbto794d5ct5vg71copi4vrko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoIoURUpxR_03DPLm541s9no0bctsU61k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010195624522-59djf7rnbto794d5ct5vg71copi4vrko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010195624522-b4eb1to2qlc37qnjeur16s8urbq38aa8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.companyEmpo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
